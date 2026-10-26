@@ -6,7 +6,7 @@ Windows 平台的双风扇控制工具，直接操作同方（Uniwill）EC 的�
 
 > 只在本机（MECHREVO 无界14XA / BIOS N.1.14MRO26）逐项实测验证过。其他机型请先只读测试，不要直接套用。
 
-![界面截图](docs/screenshot.png)
+![界面截图](docs/89812870-652e-41cc-a441-255aaad85c7f)
 
 ---
 
