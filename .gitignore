@@ -1,0 +1,12 @@
+# 运行产物
+__pycache__/
+*.py[cod]
+*.spec
+build/
+
+# 诊断日志（本机运行数据，不入库）
+diag/
+
+# 打包中间文件
+dist/*.manifest
+!dist/FanCtl.exe

@@ -1,0 +1,5 @@
+# 运行时无第三方依赖：只用 Python 标准库
+#   tkinter / ctypes / json / threading / argparse
+# 仅打包 EXE 时需要 PyInstaller：
+#   pip install -r requirements.txt
+pyinstaller>=6.0
